@@ -1,0 +1,7 @@
+C:\code\ChatCSharp\ChatCSharp.DAL\bin\Debug\ChatCSharp.DAL.dll
+C:\code\ChatCSharp\ChatCSharp.DAL\bin\Debug\ChatCSharp.DAL.pdb
+C:\code\ChatCSharp\ChatCSharp.DAL\bin\Debug\ChatCSharp.BLL.dll
+C:\code\ChatCSharp\ChatCSharp.DAL\bin\Debug\ChatCSharp.BLL.pdb
+C:\code\ChatCSharp\ChatCSharp.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\code\ChatCSharp\ChatCSharp.DAL\obj\Debug\ChatCSharp.DAL.dll
+C:\code\ChatCSharp\ChatCSharp.DAL\obj\Debug\ChatCSharp.DAL.pdb

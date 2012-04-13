@@ -1,0 +1,7 @@
+C:\code\ChatCSharp\ChatCSharp.UI.Controllers\bin\Debug\ChatCSharp.UI.Controllers.dll
+C:\code\ChatCSharp\ChatCSharp.UI.Controllers\bin\Debug\ChatCSharp.UI.Controllers.pdb
+C:\code\ChatCSharp\ChatCSharp.UI.Controllers\bin\Debug\ChatCSharp.BLL.dll
+C:\code\ChatCSharp\ChatCSharp.UI.Controllers\bin\Debug\ChatCSharp.BLL.pdb
+C:\code\ChatCSharp\ChatCSharp.UI.Controllers\obj\Debug\ResolveAssemblyReference.cache
+C:\code\ChatCSharp\ChatCSharp.UI.Controllers\obj\Debug\ChatCSharp.UI.Controllers.dll
+C:\code\ChatCSharp\ChatCSharp.UI.Controllers\obj\Debug\ChatCSharp.UI.Controllers.pdb

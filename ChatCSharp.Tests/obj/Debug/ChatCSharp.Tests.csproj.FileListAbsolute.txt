@@ -1,0 +1,5 @@
+C:\code\ChatCSharp\ChatCSharp.Tests\bin\Debug\ChatCSharp.Tests.dll
+C:\code\ChatCSharp\ChatCSharp.Tests\bin\Debug\ChatCSharp.Tests.pdb
+C:\code\ChatCSharp\ChatCSharp.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\code\ChatCSharp\ChatCSharp.Tests\obj\Debug\ChatCSharp.Tests.dll
+C:\code\ChatCSharp\ChatCSharp.Tests\obj\Debug\ChatCSharp.Tests.pdb

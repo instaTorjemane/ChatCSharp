@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace ChatCSharp.UI.Windows.Views
 {
-    public partial class Form1 : Form
+    public partial class Chat : Form
     {
-        public Form1()
+        public Chat()
         {
             InitializeComponent();
         }
@@ -22,6 +22,21 @@ namespace ChatCSharp.UI.Windows.Views
         }
 
         private void helpsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void menuStrip2_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void menuStrip3_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void listContact_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }

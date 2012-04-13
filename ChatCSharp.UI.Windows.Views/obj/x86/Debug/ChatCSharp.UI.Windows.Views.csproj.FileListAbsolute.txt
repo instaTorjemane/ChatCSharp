@@ -1,0 +1,9 @@
+C:\code\ChatCSharp\ChatCSharp.UI.Windows.Views\bin\Debug\ChatCSharp.UI.Windows.Views.exe
+C:\code\ChatCSharp\ChatCSharp.UI.Windows.Views\bin\Debug\ChatCSharp.UI.Windows.Views.pdb
+C:\code\ChatCSharp\ChatCSharp.UI.Windows.Views\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\code\ChatCSharp\ChatCSharp.UI.Windows.Views\obj\x86\Debug\ChatCSharp.UI.Windows.Views.Chat.resources
+C:\code\ChatCSharp\ChatCSharp.UI.Windows.Views\obj\x86\Debug\ChatCSharp.UI.Windows.Views.Properties.Resources.resources
+C:\code\ChatCSharp\ChatCSharp.UI.Windows.Views\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\code\ChatCSharp\ChatCSharp.UI.Windows.Views\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\code\ChatCSharp\ChatCSharp.UI.Windows.Views\obj\x86\Debug\ChatCSharp.UI.Windows.Views.exe
+C:\code\ChatCSharp\ChatCSharp.UI.Windows.Views\obj\x86\Debug\ChatCSharp.UI.Windows.Views.pdb
